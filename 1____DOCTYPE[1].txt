@@ -1,0 +1,27 @@
+1 <: DOCTYPE html> 2 3 4. 5. 6 7. 8. 9. 10 11. 12 13 14 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 32. 33. 34 35. 36. 37. 38. 39. 40 41. 42. 43. 44. 45. 46 47. 48. 49. 50. 51. 52 53. 54. 55. 56 57. 58 59. 60. 61. 62. 63. 64 65. 66. 67 68. 69. 70 71. 72. 73. 74. 75. 76 77. 78. 79. 80. 81. 82 83. 84. 85. 86. 87. 88 89. 90. 91. 92. 93. 94 95. 96. 97 98. 99. 100. 101. 102. 103. 104. 105. 106 107. 108. 109. 110. 111. 112 113. 114. 115. 116. 117. 118 119. 120. 121. 122. 123. 124 125. 126. 127. 128. 129. 130 131. 132. 133. 134. 135. 136. 137. 138. 139. 140. 141. 142. 143. 144. 145. 146. 147. 148 149. 150. 151. 152. 153. 154 155. 156. 157. 158. 159 160 161 162. 163. 164. 165
+TITLE OF THE MOVIE	YEAR	THE TOTAL BOX-OFFICE EARNINGS
+THE PARASITE	2019 20	245.9million
+THE PULP FICTION	1994	$213.9
+CASABLANCA	1943	3.7-6.9million
+Empire record	1995	303.841million
+Titanic	1997	2.195billion
+gone with the wind	1939	$390.525.192
+An affair to remember	1956	82million
+The 40year old virgin	2005	177.4million
+Cinema Paradiso	1988	$15.389.132
+Advanced Dengeons	2000	$31
+Dragons	1938	$439.000.000
+Interstellar	2014	677.4million
+Salt	2010	118.3million
+Dune	1984	309-379million
+IMBDb	2019	31.1million
+Gangs of new york	2002	$183.124.621
+Brave heart	1995	$209.045.244
+gamesradar+	1959	$897.680.000
+John wick4	2019	$110.000.000
+Angels and demons	2009	$490.875.846
+Battle of the year	2013	$16.723.377
+Border	1971	39.45.50.000
+Crocodile fury	1988	$47.800.000
+Little fires everywhere	2017	31.1million
+My girl	1991	$121.489.799
